@@ -9,7 +9,7 @@
 ## 🔎 Intro:
 
 This is a **_practice project_** in React, displaying a personal collection of places around the world to visit or visited already.
-The main **`focus`** is how to handle side effects, and working with the useEffect hook.
+The main **`focus`** is how to handle **`side effects`**, and working with the **`useEffect`** hook.
 
 ## 🧰 🛠️ Tech Stack:
 
