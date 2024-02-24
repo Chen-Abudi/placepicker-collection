@@ -23,6 +23,7 @@ The main **`focus`** is how to handle **`side effects`**, and working with the *
 
 - Handle side effects
 - useEffect hook
+- localStorage
 
 ---
 
