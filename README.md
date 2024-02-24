@@ -3,7 +3,8 @@
 ## 📣 Overview:
 
 - Intro
-- Tech Stack & Techniques
+- Tech Stack
+- Techniques
 - Additional Link
 
 ## 🔎 Intro:
@@ -11,12 +12,17 @@
 This is a **_practice project_** in React, displaying a personal collection of places around the world to visit or visited already.
 The main **`focus`** is how to handle **`side effects`**, and working with the **`useEffect`** hook.
 
-## 🧰 🛠️ Tech Stack:
+## 🧰 Tech Stack:
 
 - React
 - JavaScript
 - CSS3
 - Vite
+
+## 🛠️ Techniques:
+
+- Handle side effects
+- useEffect hook
 
 ---
 
