@@ -47,7 +47,7 @@ function App() {
       return [place, ...prevPickedPlaces];
     });
 
-    // Handle side effect
+    // Handle side effect: Update local storage with the selected place's id
     const storedIds = JSON.parse(localStorage.getItem("selectedPlaces")) || [];
     if (storedIds.indexOf(id) === -1) {
       localStorage.setItem(
