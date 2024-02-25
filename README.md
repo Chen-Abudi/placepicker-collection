@@ -21,7 +21,7 @@ The main **`focus`** is how to handle **`side effects`**, and working with the *
 
 ## 🛠️ Techniques:
 
-- Handle side effects
+- Side Effects Handling
 - React hooks (useState, useEffect, useCallback)
 - localStorage
 - Progress Bar
